@@ -71,11 +71,3 @@ I’m motivated to create software that is simple, reliable, and well-structured
 ![Static Badge](https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/matillion-19E57F?style=flat-square&logo=matillion&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
-
----
-
-#### Focus & Strengths
-
-- API & BFF design (GraphQL), schema modeling, and clean interface contracts
-- Performance-minded React UIs; pragmatic DX that keeps teams fast
-- Production-ready deployments on Kubernetes with Docker
