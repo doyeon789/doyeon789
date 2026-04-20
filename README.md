@@ -3,7 +3,7 @@
 [![velog](https://img.shields.io/badge/velog-20c997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@doyeon789/posts)
 [![Email](https://img.shields.io/badge/ddorin789%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)]()
 
-[이도연 이야기 글 이동버튼]([https://github.com/doyeon789/Study-AI](https://velog.io/@doyeon789/20%EC%82%B4-%EC%B7%A8%EC%A4%80%EC%83%9D%EC%9D%98-%ED%98%84%EC%8B%A4-%EC%9D%B4%EC%95%BC%EA%B8%B0))
+![이도연 이야기 글 이동버튼]([https://github.com/doyeon789/Study-AI](https://velog.io/@doyeon789/20%EC%82%B4-%EC%B7%A8%EC%A4%80%EC%83%9D%EC%9D%98-%ED%98%84%EC%8B%A4-%EC%9D%B4%EC%95%BC%EA%B8%B0))
 
 ---
 Hi! I’m a developer at the beginning of my journey, focused on building a strong foundation in how software actually works — from code to execution.
