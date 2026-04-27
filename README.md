@@ -62,6 +62,7 @@ I’m motivated to create software that is simple, reliable, and well-structured
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=Arm&logoColor=white)
 ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![raspberrypi](https://img.shields.io/badge/raspberrypi-#A22846?style=flat-square&logo=arduino&logoColor=white)
 
 ### Studying Categories
 
